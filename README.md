@@ -9,6 +9,8 @@ I wanted to use these programs to confirm the existence of [Zipf's Law](https://
 ![alt text](https://github.com/alex-oser/hadoop/blob/master/FrequencyShakespeare.png "Shakspeare Word Frequency")
 ######This graph shows the frequency of the 100 most common words in the text and as is predicted by Zipf's law the graph approximates a 1/n curve.
 
+
+
 ![alt text](https://github.com/alex-oser/hadoop/blob/master/LogFrequencyShakespeare.png "Shakspeare Word Frequency")
 ######This graph plots the log rank vs the log frequency for all words appearing in Shakespeare's works and as predicted by Zipf the plot is approximately linear.
 
@@ -18,6 +20,7 @@ Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews."
    Proceedings of the ACM SIGKDD International Conference on Knowledge 
    Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
    Washington, USA, 
+
 Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing 
    and Comparing Opinions on the Web." Proceedings of the 14th 
    International World Wide Web conference (WWW-2005), May 10-14, 

@@ -6,14 +6,13 @@ This repository contains several MapReduce functions that I have written for ana
 
 I wanted to use these programs to confirm the existence of [Zipf's Law](https://en.wikipedia.org/wiki/Zipf's_law) within Shakespeare's collected works and the results are shown below.
 
-The graph below shows the frequency of the 100 most common words in the text and as is predicted by Zipf's law the graph approximates a 1/n curve.
+![alt text](https://github.com/alex-oser/hadoop/blob/master/FrequencyShakespeare.png "Shakspeare Word Frequency")
 
-![alt text](https://github.com/alex-oser/hadoop/FrequencyShakespeare.png "Shakspeare Word Frequency")
+######The graph below shows the frequency of the 100 most common words in the text and as is predicted by Zipf's law the graph approximates a 1/n curve.
 
-This graph plots the log rank vs the log frequency for all words appearing in Shakespeare's works and as predicted by Zipf the plot is linear.
+![alt text](https://github.com/alex-oser/hadoop/blob/master/LogFrequencyShakespeare.png "Shakspeare Word Frequency")
 
-![alt text](https://github.com/alex-oser/hadoop/LogFrequencyShakespeare.png "Shakspeare Word Frequency")
-
+######This graph plots the log rank vs the log frequency for all words appearing in Shakespeare's works and as predicted by Zipf the plot is linear.
 
 The lists of positive and negative words used for sentiment analysis can be downloaded [here](http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html) and were originally created by professors at the University of Illinois whose work is cited below.
 
